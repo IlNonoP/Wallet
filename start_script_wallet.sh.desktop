@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[it_IT]=
+Comment=
+Exec=/opt/wallet/start_script_wallet.sh
+GenericName[it_IT]=
+GenericName=
+Icon=application-x-shellscript
+MimeType=
+Name[it_IT]=start_script_wallet.sh
+Name=start_script_wallet.sh
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-AutostartScript=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=
